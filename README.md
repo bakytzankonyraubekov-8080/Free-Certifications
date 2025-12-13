@@ -1,35 +1,4 @@
-# Free Certifications
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/cloudcommunity/Free-Certifications?style=social)](https://github.com/cloudcommunity/Free-Certifications)
-[![Twitter Follow](https://img.shields.io/twitter/follow/FreeCerts?style=social)](https://twitter.com/FreeCerts)
-
-A curated list of **free courses with certifications**. Don't forget to star ⭐ this repository.
-
-<!-- The offers on top of the table are time-limited and will expire soon. So, hurry up and grab them first! -->
-
-🌐 **Website Launch Alert** 🌐
-
-We are excited to announce that this comprehensive collection is now available as a user-friendly website at 🌐 **[FREE-CERTIFICATIONS.COM](https://free-certifications.com/)** 📚!
-
-📬 **Stay Updated with Our Newsletter!** 📬
-
-We are launching a **Free Certifications Newsletter** to bring the latest free certification opportunities straight to your inbox! Our newsletter will start distribution sometime between February and March 2025 and will be sent either weekly or biweekly. **[Subscribe now](https://freecertifications.substack.com/)** and never miss out on new learning opportunities!
-
-📌 **Love Freebies? Check These Out!** 📌
-
-If you love freebies, be sure to explore our other curated lists of free resources for various communities:
-
-- **Nonprofits**: [Free-for-Nonprofits](https://github.com/cloudcommunity/Free-for-Nonprofits)
-- **Open Source Projects**: [Free-for-Open-Source](https://github.com/cloudcommunity/Free-for-Open-Source)
-- **Startups**: [Free-for-Startups](https://github.com/cloudcommunity/Free-for-Startups)
-- **Education (Students & Schools)**: [Free-for-Education](https://github.com/cloudcommunity/Free-for-Education)
-- **Communities**: [Free-for-Communities](https://github.com/cloudcommunity/Free-for-Communities)
-
-Check them out and take advantage of amazing free resources!
-
-🔹 **About Us** 🔹
-
-🎉 Brought to you by the [Cloud Study Network](https://cloudstudy.net/) - a global tech community that shares knowledge, goodies, and good vibes! 🎉
 
 ## Table of Contents
 
@@ -46,9 +15,7 @@ Check them out and take advantage of amazing free resources!
 | --- | --- | --- | --- | --- |
 | Gitlab Certification | Gitlab | Free Certifications paths and badges | [Link](https://about.gitlab.com/learn/) | Unknown |
 | OCI | Oracle | Oracle Cloud Infrastructure, Oracle Cloud Infrastructure, Oracle Cloud Infrastructure | [Link](https://education.oracle.com/oracle-oci-certification#oracle-cloud-infrastructure) | Sept 30, 2023 |
-| Machine Learning with Python | freeCodeCamp | Free lesson and certification | [Link](https://www.freecodecamp.org/learn/machine-learning-with-python/) | Unlimited |
-| Data Visualization | freeCodeCamp | Free lesson and certification | [Link](https://www.freecodecamp.org/learn/data-visualization/) | Unlimited |
-| AI Fundamentals | Databricks  | Generative AI Fundamentals | [Link](https://www.databricks.com/resources/learn/training/generative-ai-fundamentals) | Unlimited |
+| Machine Learning with Python | freeCodeCamp | Free lesson and certification | [Link](https://www.freecodecamp.org/learn/machine-l AI Fundamentals | [Link](https://www.databricks.com/resources/learn/training/generative-ai-fundamentals) | Unlimited |
 | OCI | Oracle | Oracle Cloud Infrastructure 2023 Foundations Associate | [Link](https://education.oracle.com/oracle-cloud-infrastructure-2023-foundations-associate/pexam_1Z0-1085-23) |Unlimited |
 | OCI | Oracle | Oracle Cloud Data Management 2023 Foundations Associate | [Link](https://education.oracle.com/oracle-cloud-data-management-2023-foundations-associate/pexam_1Z0-1105-23) |Unlimited |
 | Azure | Pluralsight | Free subscription at Pluralsight for Microsoft Azure courses | [Link](https://www.pluralsight.com/partners/microsoft/azure) | 01-Jan-2025 |
@@ -59,7 +26,7 @@ Check them out and take advantage of amazing free resources!
 | Automated Testing | Test Automation University | Free certification courses by the Test Automation University. | [Link](https://testautomationu.applitools.com/) | Unknown |
 | Security | Juniper Networks | Courses and certifications for free by Juniper Networks (instead of 150 euros). | [Link](https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=11478) | Unknown |
 | Google Cloud | Qwiklabs | Claim 30 days of free Qwiklabs and access to the featured labs. | [Link](https://go.qwiklabs.com/googlecloudsolutions) | Unknown |
-| Huawei Networking | Huawei Academy | Free courses & exams from Huawei Academy for the HCIA, HCIP, and HCIE certifications. | [Link](https://ilearningx.huawei.com/portal/courses) | Unknown |
+| Huawei Networking | Huawei Academy |  courses & exams from Huawei Academy for the HCIA, HCIP, and HCIE certifications. | [Link](https://ilearningx.huawei.com/portal/courses) | Unknown |
 | Huawei Networking | Huawei Academ | Free course & certification (HCIA level, $200 value). | [Link](https://e.huawei.com/en/talent/#/ict/partner-details?consultationId=545&consClassCode=AUTH&consTypeCode=consulationRZZX&urlForm=certifi) | Unknown |
 | Programming | JetBrains | Free courses by JetBrains Academy for learning Java, Kotlin & Python. | [Link](https://www.jetbrains.com/academy/) | Unknown |
 | Cloud Monitoring | Elastic | Free access to 11 Elastic Stack courses ($200 value each). | [Link](https://www.elastic.co/training/free) | Unknown |
@@ -72,7 +39,7 @@ Check them out and take advantage of amazing free resources!
 | Diverse | Udemy | ~670 free courses at Udemy, incl. certificates. | [Link](https://www.udemy.com/courses/free/) | Unlimited |
 | cPanel | Cpanel University | Free cPanel Professional Certification (CPP) awarded simply by successfully completing the full series of video lessons. There is no final certification exam required for the CPP status. | [Link](https://exams.cpanel.net/catalog/info/id:228,cat:38) | Unlimited |
 | Plesk | Plesk University | Free Plesk Obsidian Professional Certification | [Link](https://university.plesk.com/catalog/info/id:343) | Unlimited |
-| SolusIO | Plesk University | Free SolusIO Professional Certification | [Link](https://university.plesk.com/catalog/info/id:369) | Unlimited |
+
 | Analytics | Google Analytics Academy | Google Analytics Academy free courses with certificates | [Link](https://analytics.google.com/analytics/academy/) | Unlimited |
 | SD-WAN | Silver Peak | Silver Peak , offers Free Training & Certification Exam for SD-WAN Profissional | [Link](https://www.silver-peak.com/support/training) | Unknown |
 | Data Science, AI | IBM Cognitive Class | Free AI courses with proof of completion and badge | [Link](https://cognitiveclass.ai/) | Unlimited |
